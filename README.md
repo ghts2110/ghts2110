@@ -39,19 +39,19 @@
 <div>
   <strong>Social</strong><br>
   
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/g4br13lt0rr3s" target="_blank">
     <img align="center" alt="Gabriel_LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:gabrieltorres2110@gmail.com" target="_blank">
     <img align="center" alt="Gabriel_Email" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
   </a>
   
-  <a href="https://www.instagram.com/seu-instagram" target="_blank">
+  <a href="https://www.instagram.com/gabriel__henrique_._" target="_blank">
     <img align="center" alt="Gabriel_Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
   </a>
   
-  <a href="https://leetcode.com/seu-leetcode" target="_blank">
+  <a href="https://leetcode.com/Gabriel_Torres" target="_blank">
     <img align="center" alt="Gabriel_LeetCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
   </a>
 
