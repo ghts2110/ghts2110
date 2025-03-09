@@ -27,7 +27,7 @@
   <img align="center" alt="Gabriel_MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel_PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
-  <br><br>
+  <br>
 
   <strong>Tools</strong><br>
   <img align="center" alt="Gabriel_Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -35,5 +35,27 @@
   <img align="center" alt="Gabriel_VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gabriel_Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 </div>
+
+<div>
+  <strong>Social</strong><br>
+  
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img align="center" alt="Gabriel_LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
+  
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img align="center" alt="Gabriel_Email" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+  </a>
+  
+  <a href="https://www.instagram.com/seu-instagram" target="_blank">
+    <img align="center" alt="Gabriel_Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
+  </a>
+  
+  <a href="https://leetcode.com/seu-leetcode" target="_blank">
+    <img align="center" alt="Gabriel_LeetCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+  </a>
+
+</div>
+
 
 
