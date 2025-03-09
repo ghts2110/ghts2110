@@ -44,18 +44,19 @@
   </a>
   
   <a href="mailto:gabrieltorres2110@gmail.com" target="_blank">
-    <img align="center" alt="Gabriel_Email" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+    <img align="center" alt="Gabriel_Email" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
   </a>
   
   <a href="https://www.instagram.com/gabriel__henrique_._" target="_blank">
-    <img align="center" alt="Gabriel_Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
+    <img align="center" alt="Gabriel_Instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
   </a>
   
   <a href="https://leetcode.com/Gabriel_Torres" target="_blank">
-    <img align="center" alt="Gabriel_LeetCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+    <img align="center" alt="Gabriel_LeetCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg">
   </a>
 
 </div>
+
 
 
 
