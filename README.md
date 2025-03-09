@@ -5,10 +5,24 @@
         <li>Currently focused on Back-end development 📚</li>
         <li>Recife-PE 📍</li>
         <li>gabrieltorres@gmail.com 📫</li>
-        <br>
+    </ul>
+    <br>
     I'm a Computer Science student venturing into the world of development. This GitHub will be my playground, where I'll work on the projects I'm most interested in at the moment. As a very curious person, in this GitHub, I will develop several different projects.
-        <div  align="center" style="margin-bottom:100px">
-            <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ghts2110&theme=radical&mode=weekly" />
-            <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghts2110&show_icons=true&theme=radical&layout=compact" />
-        </div> 
-      </div>
+    <div  align="center" style="margin-bottom:100px">
+        <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ghts2110&theme=radical&mode=weekly" />
+        <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghts2110&show_icons=true&theme=radical&layout=compact" />
+    </div> 
+</div>
+
+<div style="display: inline_block"><br>
+  <strong>Main Skills</strong><br>
+  <img align="center" alt="Gabriel_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Gabriel_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gabriel_Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Gabriel_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel_JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gabriel_React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <br><br>
+</div>
+
+
