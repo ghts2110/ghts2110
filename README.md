@@ -36,27 +36,6 @@
   <img align="center" alt="Gabriel_Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 </div>
 
-<div>
-  <strong>Social</strong><br>
-  
-  <a href="https://www.linkedin.com/in/g4br13lt0rr3s" target="_blank">
-    <img align="center" alt="Gabriel_LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  </a>
-  
-  <a href="mailto:gabrieltorres2110@gmail.com" target="_blank">
-    <img align="center" alt="Gabriel_Email" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
-  </a>
-  
-  <a href="https://www.instagram.com/gabriel__henrique_._" target="_blank">
-    <img align="center" alt="Gabriel_Instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
-  </a>
-  
-  <a href="https://leetcode.com/Gabriel_Torres" target="_blank">
-    <img align="center" alt="Gabriel_LeetCode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg">
-  </a>
-
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
