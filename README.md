@@ -7,4 +7,5 @@
         <li>gabrieltorres@gmail.com 📫</li>
         <br>
     I'm a Computer Science student venturing into the world of development. This GitHub will be my playground, where I'll work on the projects I'm most interested in at the moment. As a very curious person, in this GitHub, I will develop several different projects.
+        ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ghts2110&show_icons=true&theme=dark)
       </div>
