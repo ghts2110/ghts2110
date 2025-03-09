@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**ghts2110/ghts2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center">
+    <h1 style="grid-column: 1 / 2">Hi! I'm Gabriel Tôrres</h1>
+    <ul style="grid-column: 1">
+        <li>Undergraduate in Computer Science 🎓</li>
+        <li>Currently focused on Back-end development 📚</li>
+        <li>Recife-PE 📍</li>
+        I'm a Computer Science student venturing into the world of development. This GitHub will be my playground, where I'll work on the projects I'm most interested in at the moment. As a very curious person, in this GitHub, I will develop several different projects.
+      <h2 style="margin-bottom: 10px">Worktools</h2>
+    </ul>
+        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark" style="max-width: 300px; grid-column: 2">
+</div>
