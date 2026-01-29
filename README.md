@@ -37,7 +37,7 @@ Data:
   - PostgreSQL 
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=python,docker,postgresql" />
 </p>
 
   </td>
@@ -59,7 +59,7 @@ Currently Learning:
   - Software Testing
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,php,ts,laravel,vue" />
 </p>
   </td>
 </tr>
@@ -84,7 +84,7 @@ Deployment:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker" />
 </p>
 
   </td>
@@ -107,7 +107,7 @@ Other Skills:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,blender" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java" />
 </p>
 
   </td>
