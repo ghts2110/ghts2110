@@ -77,14 +77,14 @@ Design:
   
 Development:
   - VSCode
-  - Postman
+  - Viw
   
 Deployment:
   - Docker, Local VPS, GitHub Actions
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vim,docker" />
 </p>
 
   </td>
