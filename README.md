@@ -1,5 +1,3 @@
-<img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
-
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center">
     <h1 style="grid-column: 1 / 2">Hi! I'm Gabriel Tôrres</h1>
     <h3 align="left">About Me :</h3>
@@ -119,11 +117,6 @@ Other Skills:
 <div align="center">
   <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=ghts2110&theme=shadow-green" width="430" alt="GitHub Streak (API dead) " />
   <br>
- 
-  <div align="center">
-      <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghts2110&theme=github_dark" alt="Most Commit Language" />
-      <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghts2110&theme=github_dark" alt="Stats" />
-  </div>
 </div>
 
 <div align="center">
